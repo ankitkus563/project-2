@@ -98,3 +98,28 @@ span
 }
 
 
+@media only screen and (max-width: 650px) {
+    .box-2-par {
+        margin-left: 20px;
+    }
+    .box-2 {
+        display: block;
+        text-align: center;
+        
+    }
+    .box-3 {
+        display: block;
+        text-align: center;
+    }
+    .box-2-items{
+        padding: 25px;
+        text-align: center;
+
+    }
+
+    .box-4 {
+        display: block;
+        
+    }
+
+  }
